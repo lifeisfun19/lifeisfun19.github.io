@@ -1,0 +1,35 @@
+{
+  "liveServer.settings.port": 5500
+}
+.resume {
+  font-family: sans-serif;
+  background-color: burlywood;
+  padding: 20px;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin-top: -25px;
+    max-width: 100%;
+    height: auto;
+  }
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  /* FOOTER */
+
+footer {
+    font-size: 14px;
+  }
+  
