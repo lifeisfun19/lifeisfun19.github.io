@@ -1,35 +1,52 @@
-{
-  "liveServer.settings.port": 5500
+
+body {
+  margin: 0;
+  padding: 5px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/2a/Waterfalls-forest-landscape_-_Virginia_-_ForestWander.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
 }
-.resume {
-  font-family: sans-serif;
-  background-color: burlywood;
-  padding: 20px;
-}
+
 h1 {
-    font-size: 40px;
+  font-family: Algerian;
+    font-size: 60px;
     margin-top: 0;
     margin-bottom: 15px;
     text-align: center;
   }
   img {
-    display: block;
-    margin-top: -25px;
-    max-width: 100%;
-    height: auto;
-  }
-  hr {
-    height: 2px;
-    background-color: brown;
-    border-color: brown;
+    width: 500px; 
+  height: 350px; 
+  object-fit: cover;
   }
   
-  h1, h2 {
-    font-family: Impact, serif;
+  
+  h2 {
+    font-family:  Algerian;
+    font-size: 40px;
   }
   /* FOOTER */
 
 footer {
     font-size: 14px;
   }
+  
+  
+  .background {
+    padding: 20px;
+  }
+  
+  .section {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  
+
+  
   
